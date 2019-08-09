@@ -1,17 +1,19 @@
 body{
-    background-image: url("./pattern.jpg");
-    font-family: Arial, Helvetica, sans-serif;
     color: rgb(65, 25, 102);
+}
+
+.jumbotron{
+    background-image: url("./pattern.jpg");
 }
 
 .title{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 img{
-    max-width: 17%;
-    max-height: 17%;
+    height: 170px;
+    width: 170px;
 }
 
 .About_Me, p {
@@ -20,9 +22,8 @@ img{
 
 .About_Me{
     text-decoration: underline;
-    font-size: 33px;
 }
 
 p{
-    margin-right: 50%;
+    margin-right: 30%;
 }

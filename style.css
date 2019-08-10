@@ -18,7 +18,7 @@ a {
     width: 170px;
 }
 
-.About_Me, p, .Projects, li, .Interests{
+.About_Me, p, .Projects, li, .Interests, h6{
     margin-left: 3%;
     color: rgb(65, 25, 102);
 }
@@ -27,7 +27,7 @@ a {
     text-decoration: underline;
 }
 
-p{
+p, li{
     margin-right: 30%;
 }
 
